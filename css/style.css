@@ -1,0 +1,30 @@
+img {
+    height: 80px;
+    width: 102.78px;
+}
+body {
+    background-color: aqua;
+}
+.item {
+    background-color: white;
+    border-radius: 5px;
+    height: 200px;
+    width: 300px;
+    margin:5px;
+    text-align: center;
+    border-width: 5px;
+    margin:10px;
+    border-color: black;
+    transition: box-shadow ease 1s;
+    position: relative;
+}
+.item:hover {
+    box-shadow:  3px 3px black;
+}
+body {
+    background-color: #13CABE ;
+    font-family: 'Shadows Into Light', cursive;
+}
+h1 {
+    text-align: center;
+}
